@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indentation_20">20dp</dimen>
+    <dimen name="indentation_10">10dp</dimen>
+    <dimen name="indentation_0">0dp</dimen>
+</resources>
